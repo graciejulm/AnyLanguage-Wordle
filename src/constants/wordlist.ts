@@ -5,8 +5,7 @@ export const WORDS = [
   'migizi',
   'ziigwan',
   'waabano',
-  'waagosh',
-  
+  'waagosh',  
 ]
 
 if (CONFIG.normalization) {
