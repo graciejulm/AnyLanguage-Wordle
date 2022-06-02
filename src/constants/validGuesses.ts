@@ -5,7 +5,7 @@ export const VALIDGUESSES = [
   'migizi',
   'ziigwan',
   'waabano',
-  'waagosh',   
+  'wiingosh',   
 ]
 
 if (CONFIG.normalization) {
